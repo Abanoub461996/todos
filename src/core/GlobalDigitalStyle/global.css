@@ -1,0 +1,7 @@
+.p-inputtext:enabled:focus {
+    /* border-color: transparent!important; */
+    box-shadow: none!important;
+    outline: 0 none!important;
+    outline-offset: 0!important;
+}
+

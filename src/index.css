@@ -1,0 +1,19 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	:root {
+		--color-primary: 255 115 179;
+		--color-secondary: 111 114 185;
+	}
+}
+
+:root {
+	line-height: 1.5;
+	font-weight: 400;
+}
+
+body {
+}
